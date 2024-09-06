@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\gniku\Documents\C++\CarGame\CarGame\olcConsoleGameEngine.h(759,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gniku\Documents\C++\CarGame\CarGame\olcConsoleGameEngine.h(1099,31): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\gniku\Documents\C++\CarGame\CarGame\olcConsoleGameEngine.h(1196,4): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\gniku\Documents\C++\CarGame\CarGame\main.cpp(156,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gniku\Documents\C++\CarGame\CarGame\main.cpp(157,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gniku\Documents\C++\CarGame\CarGame\main.cpp(158,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gniku\Documents\C++\CarGame\CarGame\main.cpp(159,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gniku\Documents\C++\CarGame\CarGame\main.cpp(201,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\gniku\Documents\C++\CarGame\CarGame\main.cpp(220,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gniku\Documents\C++\CarGame\CarGame\main.cpp(221,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\gniku\Documents\C++\CarGame\CarGame\main.cpp(222,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CarGame.vcxproj -> C:\Users\gniku\Documents\C++\CarGame\x64\Debug\CarGame.exe
